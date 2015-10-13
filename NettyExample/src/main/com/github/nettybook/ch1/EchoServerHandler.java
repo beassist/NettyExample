@@ -5,7 +5,6 @@ import java.nio.charset.Charset;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
-import io.netty.channel.SimpleChannelInboundHandler;
 
 /**
  * Handles a server-side channel.
